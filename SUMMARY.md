@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [尝试编辑](README.md)
 
 ## Guides
 
